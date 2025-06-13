@@ -1,0 +1,99 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DRK Information Model: A Semantic Framework for Cultural
+  Dataspaces
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rohit A.
+    family-names: Deshmukh
+    email: rohit.deshmukh@fit.fraunhofer.de
+    affiliation: Fraunhofer Institute for Applied Information Technology FIT
+    orcid: 'https://orcid.org/0000-0003-2885-7076'
+  - given-names: Daham M.
+    family-names: Mustafa
+    email: daham.mustafa@fit.fraunhofer.de
+    affiliation: Fraunhofer Institute for Applied Information Technology FIT
+    orcid: 'https://orcid.org/0000-0003-1867-4428'
+  - given-names: Christoph
+    family-names: Lange-Bever
+    email: christoph.lange@fit.fraunhofer.de
+    affiliation: Fraunhofer Institute for Applied Information Technology FIT
+    orcid: 'https://orcid.org/0000-0001-9879-3827'
+  - given-names: Peter
+    family-names: Retzlaff
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15294907
+    description: The versioned DOI for version 1.0.1 of the work.
+  - type: url
+    value: 'https://w3id.org/drk/ontology/'
+    description: The persistent URI for the DRK Ontology.
+repository-code: 'https://github.com/Daham-Mustaf/drk-information-model'
+url: 'https://fraunhofer-fit-dsai.github.io/drk-information-model/'
+repository: 'https://github.com/Fraunhofer-FIT-DSAI/drk-information-model'
+abstract: >-
+  The Datenraum Kultur (DRK) Information Model is a
+  comprehensive semantic framework designed for cultural
+  data interoperability within dataspaces. This model
+  provides formal specifications of concepts, relationships,
+  and constraints to enable structured data representation
+  and advanced querying capabilities for cultural heritage
+  institutions, museums, theaters, and music platforms. The
+  DRK IM includes core ontology modules, domain-specific
+  schemas, application profiles with SHACL constraints,
+  controlled vocabularies, and policy templates. Built
+  using W3C standards (RDF, OWL, SHACL, ODRL), it follows
+  FAIR principles and supports knowledge graph
+  implementation for enhanced data discovery and
+  interoperability in the cultural sector.
+keywords:
+  - semantic web
+  - ontology
+  - cultural heritage
+  - dataspace
+  - FAIR
+  - RDF
+  - OWL
+  - SHACL
+  - interoperability
+  - knowledge graph
+  - museums
+  - theaters
+  - music
+  - metadata
+license: CC-BY-4.0
+commit: main
+version: 1.0.1
+date-released: '2024-04-28'
+preferred-citation:
+  type: generic
+  title: >-
+    The DRK Ontology: A Semantic Framework for Cultural
+    Dataspaces
+  authors:
+    - given-names: Rohit A.
+      family-names: Deshmukh
+      email: rohit.deshmukh@fit.fraunhofer.de
+      affiliation: Fraunhofer Institute for Applied Information Technology FIT
+    - given-names: Daham M.
+      family-names: Mustafa
+      email: daham.mustafa@fit.fraunhofer.de
+      affiliation: Fraunhofer Institute for Applied Information Technology FIT
+    - given-names: Christoph
+      family-names: Lange-Bever
+      email: christoph.lange@fit.fraunhofer.de
+      affiliation: Fraunhofer Institute for Applied Information Technology FIT
+    - given-names: Peter
+      family-names: Retzlaff
+      email: peter.retzlaff@fit.fraunhofer.de
+      affiliation: Fraunhofer Institute for Applied Information Technology FIT
+  year: 2024
+  doi: 10.5281/zenodo.15294907
+  url: 'https://w3id.org/drk/ontology/'
+  notes: Version 1.0.1
